@@ -1,0 +1,35 @@
+:root {
+  --main-bg-color: #fefefe;
+  --second--bg-color: #e5c643;
+  --hero--bg-color: #f4f6f5;
+  --footer-bg-color: #000000;
+  --brands-bg-color: #ebd96b;
+
+  --header-nav-text-color: #242323;
+  --main-text-color: #000000;
+  --second-hero-text-color: #191818;
+  --main--title-text-color: #000000;
+
+  --main-card-text-color: #191919;
+  --second-card-text-color: #7f7f7f;
+
+  --second-sale-text-color: #231300;
+  --second-download-text-color: #7c7c7c;
+
+  --main-join-title-text-color: #ffffff;
+  --second-join-text-color: #fffcf8;
+  --input-join-text-color: #767676;
+
+  --main-footer-text: #ffffff;
+  --second-footer-text: #8e8e8e;
+  --third-footer-text: #d9d9d9;
+
+  --main-btn-text-color: #ffffff;
+  --second-btn-text-color: #fefefe;
+  --main-btn-gb-color: #000000;
+
+  --large-text-weight: 900;
+  --prelarge-text-weight: 700;
+  --medium-text-weight: 500;
+  --small-text-weight: 400;
+}
